@@ -21,7 +21,7 @@ repository               : "LiuDingrui9/liudingrui.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dingrui.png"
+  avatar           : "../assets/dingrui.png"
   name             : "Liu Dingrui"
   pronouns         : "he/him"  
   bio              : "Master of Science in Biology"
